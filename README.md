@@ -1,7 +1,17 @@
 https://www.otobanotokaporta.com/
 
-Yayınlamak için geliştirdiğim ilk sitem. 
+En-----------------------------------------------------------------------
 
-Mobil uyumlu. 
+It's the first site I've developed for commercial purposes.
+
+100% mobile compatible.
+
+I worked very hard on it.
+
+Tr-----------------------------------------------------------------------
+
+Ticari amaçla geliştirdiğim ilk sitem. 
+
+100% mobil uyumlu. 
 
 Üzerinde çok titiz çalıştım. 
